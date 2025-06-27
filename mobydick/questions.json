@@ -1,0 +1,104 @@
+{
+    "Chapter 1 - Loomings": {
+        "q1": {
+            "question": "What emotional state prompts Ishmael to go to sea?",
+            "options": "A: Boredom\nB: Excitement\nC: A \"damp, drizzly November in his soul\"\nD: A desire to find a new job",
+            "correct": "C"
+        },
+        "q2": {
+            "question": "What metaphor does Ishmael use to describe humans' pull toward water?",
+            "options": "A: We\u2019re fish in a bigger ocean\nB: All men have a magnetic pull to the sea\nC: The sea whispers to the soul\nD: The ocean is our first home",
+            "correct": "B"
+        },
+        "q3": {
+            "question": "How does Ishmael contrast himself with Cato?",
+            "options": "A: Cato joined the army, Ishmael joined a ship\nB: Cato sailed the seas, Ishmael preferred land\nC: Cato took his own life; Ishmael goes to sea to avoid despair\nD: Cato wrote philosophy; Ishmael reads it",
+            "correct": "C"
+        }
+    },
+    "Chapter 2 - The Carpet-Bag": {
+        "q1": {
+            "question": "Why does Ishmael insist on sailing from Nantucket?",
+            "options": "A: He was born there\nB: He believes it\u2019s the original whaling town\nC: It\u2019s the only place hiring\nD: He has friends there",
+            "correct": "B"
+        },
+        "q2": {
+            "question": "What impression does Ishmael get from inns like \u201cThe Crossed Harpoons\u201d and \u201cSword-Fish Inn\u201d?",
+            "options": "A: Too religious\nB: Too luxurious and expensive\nC: Too remote from the docks\nD: Haunted",
+            "correct": "B"
+        },
+        "q3": {
+            "question": "Why does Ishmael choose the Spouter-Inn?",
+            "options": "A: It has great food\nB: It\u2019s the first he sees\nC: It appears cheap and unpretentious\nD: He is told it's the safest",
+            "correct": "C"
+        }
+    },
+    "Chapter 3 - The Spouter-Inn": {
+        "q1": {
+            "question": "What hangs in the Spouter-Inn's entryway that Ishmael finds puzzling?",
+            "options": "A: A whale jawbone\nB: A shadowy painting\nC: A sailor's coat\nD: A stuffed shark",
+            "correct": "B"
+        },
+        "q2": {
+            "question": "How does the landlord describe Queequeg before Ishmael meets him?",
+            "options": "A: Friendly and well-spoken\nB: A cheerful Christian\nC: A dark-complexioned man who eats only rare steaks\nD: A loud drunk",
+            "correct": "C"
+        },
+        "q3": {
+            "question": "What is Ishmael\u2019s reaction when Queequeg jumps into bed with him?",
+            "options": "A: He laughs nervously\nB: He screams and calls for the landlord\nC: He hugs Queequeg back\nD: He leaves the inn immediately",
+            "correct": "B"
+        }
+    },
+    "Chapter 4 - The Counterpane": {
+        "q1": {
+            "question": "How does Ishmael describe Queequeg\u2019s arm in the morning?",
+            "options": "A: Like a tree branch\nB: Like a serpent\nC: Like part of the patchwork quilt\nD: Like a shadow",
+            "correct": "B"
+        },
+        "q2": {
+            "question": "What memory does Ishmael recall as he wakes?",
+            "options": "A: Being scolded as a child and sent to bed early\nB: His first time on a ship\nC: A dream about a whale\nD: Climbing a tree to escape chores",
+            "correct": "A"
+        },
+        "q3": {
+            "question": "How does Ishmael feel after waking next to Queequeg?",
+            "options": "A: Horrified and cold\nB: Startled, but calm\nC: Angry\nD: Deeply comforted and peaceful",
+            "correct": "D"
+        }
+    },
+    "Chapter 5 - The Street": {
+        "q1": {
+            "question": "What surprises Ishmael about New Bedford\u2019s streets?",
+            "options": "A: How deserted they are\nB: The number of foreigners and sailors\nC: How clean and quiet everything is\nD: That no one knows what whaling is",
+            "correct": "B"
+        },
+        "q2": {
+            "question": "What kind of young men arrive in New Bedford for whaling?",
+            "options": "A: City bankers\nB: Pirates\nC: Green country boys seeking adventure\nD: Experienced captains",
+            "correct": "C"
+        },
+        "q3": {
+            "question": "What does Ishmael say about country-bred dandies?",
+            "options": "A: They\u2019re ridiculous and impractical at sea\nB: They quickly adapt to sailing life\nC: They\u2019re the best harpooneers\nD: They love reading",
+            "correct": "A"
+        }
+    },
+    "Chapter 6 - The Chapel": {
+        "q1": {
+            "question": "What is the mood inside the whalemen\u2019s chapel?",
+            "options": "A: Chaotic\nB: Joyful and festive\nC: Quiet and solemn\nD: Loud and crowded",
+            "correct": "C"
+        },
+        "q2": {
+            "question": "What do the marble tablets in the chapel commemorate?",
+            "options": "A: Famous whale catches\nB: Births of sailors\nC: Dead or lost whalemen\nD: Famous sermons",
+            "correct": "C"
+        },
+        "q3": {
+            "question": "What stands out to Ishmael about the preacher?",
+            "options": "A: His powerful presence and whaling experience\nB: His youth and inexperience\nC: His musical voice\nD: His noble attire",
+            "correct": "A"
+        }
+    }
+}
